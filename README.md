@@ -7,3 +7,8 @@ I made a test bc im bored
 git commit README.md -m "yea"
 
 git push 
+
+## I love markdown
+
+*biold*
+_italic_`
