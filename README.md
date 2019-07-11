@@ -2,4 +2,8 @@
 
 I made a test bc im bored
 
-### Nima smells haha arent i so funny
+### Marking down texts is important
+
+git commit README.md -m "yea"
+
+git push 
